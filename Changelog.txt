@@ -7,4 +7,3 @@
 -Dolby Atmos op included. 
 -OrangeFox Recovery 11.1_3 Recommended. 
 -Clean install is recommended.
--LN8000 supported.
