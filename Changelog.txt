@@ -1,9 +1,14 @@
-# Changelog Device-SkylineUI QPR3
--Use latest fw according with ur region.
+#Changelog Device-SkylineUI QPR3 (26/07/'23)
+HBM added.
+DC dimming added.
+Fix lag while app opening and Qs lags.
+Use latest fw according with ur region.
+OrangeFox Recovery 11.1_3 Recommended. 
+Clean install is recommended.
+#Changelog Device-SkylineUI QPR3 (23/07/'23)
 -Vantom Kernel is default.
 -Miui Camera is default (MIUI V14.0.2.0.TKFMIXM)
 -Supports sweet and sweetin.
 -Update HALS media/audio.
 -Dolby Atmos op included. 
--OrangeFox Recovery 11.1_3 Recommended. 
--Clean install is recommended.
+
