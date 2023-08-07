@@ -1,11 +1,23 @@
-#Changelog Device-SkylineUI QPR3 (26/07/'23)
-HBM added.
-DC dimming added.
-Fix lag while app opening and Qs lags.
-Use latest fw according with ur region.
-OrangeFox Recovery 11.1_3 Recommended. 
-Clean install is recommended.
-#Changelog Device-SkylineUI QPR3 (23/07/'23)
+Device: Redmi Note 10 pro
+Device Codename : sweet, sweetin
+Device maintainer: NutellaDev
+==================================
+DATE - 07/08/2023
+==================================
+-Spatial audio added from cheetah-tq3a.230605.012
+-Fixed dolby mediacodecs support (Apple Music)
+==================================
+DATE - 26/07/2023
+==================================
+-HBM added.
+-DC dimming added.
+-Fix lag while app opening and Qs lags.
+-Use latest fw according with ur region.
+-OrangeFox Recovery 11.1_3 Recommended. 
+-Clean install is recommended.
+==================================
+DATE - 23/07/2023
+==================================
 -Vantom Kernel is default.
 -Miui Camera is default (MIUI V14.0.2.0.TKFMIXM)
 -Supports sweet and sweetin.
