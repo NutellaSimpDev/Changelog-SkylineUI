@@ -9,6 +9,9 @@ DATE - 09/08/2023
 -Fixed the Screen Lag during Screen Recording.
 -SurfaceFlinger offsets from taro.
 -Fling props added.
+-Fix FP ripple animation lag.
+-Improved tactile sensitivity response.
+-Improvements for smoother scrolling and better responsiveness.
 ==================================
 DATE - 26/07/2023
 ==================================
