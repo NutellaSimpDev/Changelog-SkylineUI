@@ -2,6 +2,17 @@ Device: Redmi Note 10 pro
 Device Codename : sweet, sweetin
 Device maintainer: NutellaDev
 ==================================
+DATE - 17/08/2023
+==================================
+-Limit AOD & Ambient Display refresh rate to 60Hz
+-Enable config doze PulsePickup
+-Enable AOSP surfaceflinger
+-Use the new auto network selection UI 
+-Add a system property for System UI compiler filter
+-Enable usage of dex2oat64
+-Sleepy kernel 4.14.321 by default
+-KernelSU updated version v0.6.6(11184).
+==================================
 DATE - 09/08/2023
 ==================================
 -Spatial audio added from cheetah-tq3a.230605.012.
