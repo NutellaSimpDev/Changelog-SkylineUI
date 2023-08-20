@@ -1,43 +1,11 @@
-Device: Redmi Note 10 pro
-Device Codename : sweet, sweetin
+Device: Mi 10T/10T Pro
+Device Codename : Apollo/Apollon
 Device maintainer: NutellaDev
 ==================================
-DATE - 17/08/2023
+DATE - 20/08/2023
 ==================================
--Limit AOD & Ambient Display refresh rate to 60Hz
--Enable config doze PulsePickup
--Enable AOSP surfaceflinger
--Use the new auto network selection UI 
--Add a system property for System UI compiler filter
--Enable usage of dex2oat64
--Sleepy kernel 4.14.321 by default
--KernelSU updated version v0.6.6(11184).
-==================================
-DATE - 09/08/2023
-==================================
--Spatial audio added from cheetah-tq3a.230605.012.
--Fixed dolby mediacodecs support (Apple Music)
--Fixed the Screen Lag during Screen Recording.
--SurfaceFlinger offsets from taro.
--Fling props added.
--Fix FP ripple animation lag.
--Improved tactile sensitivity response.
--Improvements for smoother scrolling and better responsiveness.
-==================================
-DATE - 26/07/2023
-==================================
--HBM added.
--DC dimming added.
--Fix lag while app opening and Qs lags.
--Use latest fw according with ur region.
--OrangeFox Recovery 11.1_3 Recommended. 
--Clean install is recommended.
-==================================
-DATE - 23/07/2023
-==================================
--Vantom Kernel is default.
--Miui Camera is default (MIUI V14.0.2.0.TKFMIXM)
--Supports sweet and sweetin.
--Update HALS media/audio.
--Dolby Atmos op included. 
-
+-Initial Build.
+-One Plus 9R Dolby by default.
+-Redline 4.19.282 is default kernel. 
+-CTS passed by default.
+-Translations updated.
