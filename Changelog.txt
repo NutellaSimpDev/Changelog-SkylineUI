@@ -2,6 +2,24 @@ Device: Mi 10T/10T Pro
 Device Codename : Apollo/Apollon
 Device maintainer: NutellaDev
 ==================================
+DATE - 22/08/2023
+==================================
+-Add suport for MiuiCamera
+-Set ro.zygote.disable_gl_preload false
+-Enable GL comp backpressure
+-Set props to improve smoother scrolling and better responsiveness
+-Kang surfaceFlinger offsets from taro 
+-Fix the Screen Lag during Screen Recording
+-Add a system property for System UI compiler filter
+-Use the new auto network selection UI 
+-Add config_wallpaperMaxScale overlay
+-Enable performant auth feature
+-Import QTI MediaCodecs
+-Import LDAC and LHDC prebuilts
+-Import OzoAudio Engine prebuilts
+-Import Xiaomi TouchFeature service
+-Import missing audio prebuilts
+==================================
 DATE - 20/08/2023
 ==================================
 -Initial Build.
