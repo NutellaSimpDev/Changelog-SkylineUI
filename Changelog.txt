@@ -5,6 +5,10 @@ Device maintainer: NutellaDev
 DATE - 22/08/2023
 ==================================
 -Add suport for MiuiCamera
+-Use directBootAware
+-Implement Clear Speaker 
+-Add per app maximum refresh rate
+-Introduce Refresh Rate QS tile
 -Set ro.zygote.disable_gl_preload false
 -Enable GL comp backpressure
 -Set props to improve smoother scrolling and better responsiveness
