@@ -2,7 +2,7 @@ Device: Mi 10T/10T Pro
 Device Codename : Apollo/Apollon
 Device maintainer: NutellaDev
 ==================================
-DATE - 22/08/2023
+DATE - 24/08/2023
 ==================================
 -Leica Cam added
 -Use directBootAware
