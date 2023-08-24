@@ -2,8 +2,12 @@ Device: Redmi Note 10 pro
 Device Codename : sweet, sweetin
 Device maintainer: NutellaDev
 ==================================
-DATE - 17/08/2023
+DATE - 24/08/2023
 ==================================
+-Added Refresh rate tile in qs
+-Disable sdm rotator downscaler
+-Added per app refresh rate
+-Import debug.sf.frame_rate_multiple_threshold prop
 -Limit AOD & Ambient Display refresh rate to 60Hz
 -Enable config doze PulsePickup
 -Enable AOSP surfaceflinger
