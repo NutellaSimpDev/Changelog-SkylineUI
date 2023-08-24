@@ -4,7 +4,7 @@ Device maintainer: NutellaDev
 ==================================
 DATE - 22/08/2023
 ==================================
--Add suport for MiuiCamera
+-Leica Cam added
 -Use directBootAware
 -Implement Clear Speaker 
 -Add per app maximum refresh rate
